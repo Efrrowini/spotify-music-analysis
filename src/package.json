@@ -1,5 +1,5 @@
 {
-  "homepage": "https://effrowini.github.io/spotify-music-analysis"
+  "homepage": "https://effrowini.github.io/spotify-music-analysis",
   "name": "spotify-music-analysis",
   "version": "1.0.0",
   "private": true,
@@ -16,3 +16,4 @@
     "react-scripts": "5.0.1"
   }
 }
+
